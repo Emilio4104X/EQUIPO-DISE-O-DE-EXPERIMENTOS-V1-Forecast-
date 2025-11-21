@@ -1,4 +1,13 @@
 # EQUIPO#-DISEÑO-V3-Regresión Lineal
+Integrantes del Equipo: 
+Emilio Estrada Villegas -  2097136
+Alan Alberto González Mejía - 2101613
+Cristofer Alejandro Alvarez Sandoval  - 2100063
+Mauricio González Bermúdez - 2101442
+David Alejandro Padilla Cardona  - 2094590
+Ramiro Daniel Aguilar González - 2177783
+René Alejandro Garza Muñiz - 2099242
+
 En este proyecto, realizaremos en equipo un problema acerca del tema de Regresión Lineal, en donde se basarán en un problema donde represente un modelo estadístico visto en clase. Esta aplicación utilizará Shiny, el cual es muy funcional a la hora de realizar un análisis interactivo entre el modelo que se realizará. 
 El usuario podrá cargar un archivo CSV o dataset para declarar la variables dependiente (Y) y las variables independientes (X), y de ahí se obtendrá la ecuación del modelo, el resúmen estadístico, el gráfico de dispersión con línea de regresión, la correlación del estadístico y los gráficos de diagnóstico del modelo. 
 Utilizaremos librerías como Shiny y ggplot2 que son utiles para crear interfaces interactivas en R y genera gráficos de dispersión y líneas de regresión. 
