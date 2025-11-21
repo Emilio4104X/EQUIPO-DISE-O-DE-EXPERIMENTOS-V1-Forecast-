@@ -1,7 +1,7 @@
 # EQUIPO#-DISEÑO-V3-Regresión Lineal
 Integrantes del Equipo: 
 Emilio Estrada Villegas -  2097136
-Alan Alberto González Mejía - 2101613
+Alan Alberto González Mejía - 2103459
 Cristofer Alejandro Alvarez Sandoval  - 2100063
 Mauricio González Bermúdez - 2101442
 David Alejandro Padilla Cardona  - 2094590
